@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">shareApp</string>
+    <string name="discovered_state">Discovery Started</string>
+    <string name="connection_fail">Connection Failed</string>
+</resources>
